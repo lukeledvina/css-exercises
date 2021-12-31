@@ -1,0 +1,20 @@
+.odd-numbers {
+    background-color: rgba(235, 63, 143, 0.5);
+    font-family: "Verdana" "sans-seriff";
+}
+
+.number-3 {
+    font-size: 24px;
+}
+
+#div-2 {
+    color: rgb(0, 0, 230);
+    font-size: 36px;
+    font-weight: 500;
+}
+
+#div-4 {
+    background-color: rgba(50, 195, 50, 0.5);
+    font-weight: bold;
+    font-size: 24px;
+}
